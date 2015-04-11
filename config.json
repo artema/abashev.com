@@ -1,0 +1,26 @@
+{
+  "locals": {
+    "url": "http://abashev.com",
+    "name": "Artem Abashev",
+    "owner": "Artem Abashev",
+    "description": ""
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 5
+  }
+}

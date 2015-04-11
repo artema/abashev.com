@@ -1,0 +1,75 @@
+{
+	"forms":[{
+	    "browser": "Default",
+	    "peacekeeper_points": 229,
+	    "peacekeeper_html": 0,
+	    "fishtank_20": 0,
+	    "fishtank_1000": 0,
+	    "browsermark": 0
+	}, {
+	    "browser": "Awesomium",
+	    "peacekeeper_points": 1242,
+	    "peacekeeper_html": 5,
+	    "fishtank_20": 16,
+	    "fishtank_1000": 3,
+	    "browsermark": 2133
+	}, {
+	    "browser": "CefGlue",
+	    "peacekeeper_points": 1006,
+	    "peacekeeper_html": 6,
+	    "fishtank_20": 8,
+	    "fishtank_1000": 4,
+	    "browsermark": 2060
+	}, {
+	    "browser": "CefSharp",
+	    "peacekeeper_points": 1316,
+	    "peacekeeper_html": 2,
+	    "fishtank_20": 12,
+	    "fishtank_1000": 4,
+	    "browsermark": 2294
+	}, {
+	    "browser": "GeckoFx",
+	    "peacekeeper_points": 681,
+	    "peacekeeper_html": 7,
+	    "fishtank_20": 46,
+	    "fishtank_1000": 18,
+	    "browsermark": 2313
+	}, {
+	    "browser": "Xilium CefGlue",
+	    "peacekeeper_points": 1142,
+	    "peacekeeper_html": 6,
+	    "fishtank_20": 55,
+	    "fishtank_1000": 17,
+	    "browsermark": 2967
+	}],
+	
+	"wpf":[{
+	    "browser": "Default",
+	    "peacekeeper_points": 238,
+	    "peacekeeper_html": 0,
+	    "fishtank_20": 0,
+	    "fishtank_1000": 0,
+	    "browsermark": 0
+	}, {
+	    "browser": "Awesomium",
+	    "peacekeeper_points": 1342,
+	    "peacekeeper_html": 5,
+	    "fishtank_20": 12,
+	    "fishtank_1000": 3,
+	    "browsermark": 2078
+	}, {
+	    "browser": "CefSharp",
+	    "peacekeeper_points": 1286,
+	    "peacekeeper_html": 2,
+	    "fishtank_20": 12,
+	    "fishtank_1000": 2,
+	    "browsermark": 2237
+	}, {
+	    "browser": "Xilium CefGlue",
+	    "peacekeeper_points": 1101,
+	    "peacekeeper_html": 6,
+	    "fishtank_20": 5,
+	    "fishtank_1000": 1,
+	    "browsermark": 2472
+	}]
+}
