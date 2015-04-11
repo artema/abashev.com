@@ -8,7 +8,12 @@ block prepend title
   | #{ page.title + " - "}
 
 block header
-  include author
+  h3
+    a(href=locals.url)= locals.name
+  div.sociallink.small
+    a(href="https://github.com/artema", class="fa fa-github")
+    a(href="https://linkedin.com/in/artemabashev", class="fa fa-linkedin")    
+    a(href="https://twitter.com/artemabashev", class="fa fa-twitter")
   h1= page.title
 
 block content

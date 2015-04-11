@@ -434,3 +434,15 @@ code.lang-markdown .bullet {
   }
 }
 
+.sociallink{
+  font-size:2em;
+  text-align:center;
+  letter-spacing:1em;
+}
+.sociallink.small{
+  font-size:1em;
+  margin-bottom:2em;
+}
+.fa{
+  text-decoration:none !important;
+}
